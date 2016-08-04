@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="title_activity_admin_sqlite_open_helper">AdminSQLiteOpenHelper</string>
+</resources>
